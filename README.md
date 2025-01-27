@@ -1,0 +1,1 @@
+A program made with Java and JavaFx, where the user is able to put nodes out on map. The nodes represent different cities in Europe and the user can connect these nodes as different travel methods (for example by train or flying). 
